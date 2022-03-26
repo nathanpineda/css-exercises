@@ -1,0 +1,15 @@
+.click {
+    color: #fff;
+    background-color: #000;
+}
+
+.desperateClick {
+    
+    background-color: rgb(255, 255, 70);
+}
+
+.click,
+.desperateClick {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
