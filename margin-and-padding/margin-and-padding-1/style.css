@@ -7,22 +7,26 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 25px;
+  margin: 20px 0;
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 50px;
 }
 
 .three {
   background: peachpuff;
   border: 3px solid brown;
-  width: 200px;
+  width: 300px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  box-sizing: border-box;
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-right: 100px;
+  margin-left: 300px;
 }
