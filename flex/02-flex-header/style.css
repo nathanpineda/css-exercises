@@ -18,13 +18,15 @@ ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-evenly;
   align-content: center;
   width: 300px;
+  margin: 0 -20px;
+  padding: auto;
 }
 
 li {
-  flex: 1;
+  flex: auto;
 }
 
 a {
