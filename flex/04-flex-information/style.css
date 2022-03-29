@@ -15,6 +15,21 @@ img {
   margin: 0 0 32px 0;
 }
 
+.major-container {
+  display: flex;
+  justify-content: center;
+}
+
+.flex-plant-container {
+  display: flex;
+  width: 200px;
+  flex-wrap: wrap;
+}
+
+.text {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
