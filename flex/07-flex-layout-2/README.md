@@ -31,3 +31,6 @@ On a smaller screen it will look like this:
 - The sidebar has 16px padding.
 - There is 32px padding around the 'cards' section.
 - The cards are arranged horizontally, but wrap to multiple lines when they run out of room on the page.
+
+
+- Color palette https://colorhunt.co/palette/f8ede3bdd2b6a2b29f798777
