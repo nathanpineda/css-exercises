@@ -20,6 +20,13 @@ body {
   align-items: center;
 }
 
+.right-links,
+.left-links {
+  display: flex;
+  gap: 20px;
+  padding: 0 20px;
+}
+
 img {
   max-width: 600px;
   flex-shrink: 0;
