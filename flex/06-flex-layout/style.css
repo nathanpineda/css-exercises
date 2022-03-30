@@ -50,11 +50,17 @@ body {
   flex-direction: column;
   justify-content: flex-end;
   align-content: space-between;
-  height: 60vh;
+  height: 50vh;
 }
 
-.footer-links {
-  
+.footer-links-right {
+  display: flex;
+  gap: 20px;
+}
+
+.footer-links-left {
+  display: flex;
+  gap: 20px;
 }
 
 /*
