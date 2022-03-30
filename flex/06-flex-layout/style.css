@@ -45,6 +45,11 @@ body {
   justify-content: center;
 }
 
+.footer {
+  display: flex;
+  flex-direction: column;
+}
+
 /*
 ========
 Individual Elements
