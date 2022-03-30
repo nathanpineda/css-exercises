@@ -30,7 +30,9 @@ img {
 }
 
 ul {
-  padding: 0 40px;
+  padding: 0 20px;
+  display: flex;
+  gap: 20px;
 }
 
 button {
