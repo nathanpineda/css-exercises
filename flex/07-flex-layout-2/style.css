@@ -33,7 +33,7 @@ body {
 .sidebar {
   width: 300px;
   background: #A2B29F;
-  
+  flex: 1 0 auto;
 }
 
 .card {
