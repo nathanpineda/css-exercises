@@ -50,19 +50,20 @@ body {
   flex-direction: column;
   justify-content: flex-end;
   align-content: space-between;
-  height: 50vh;
+  height: 55%;
 }
 
-.footer-links-right {
+.footer-container {
   display: flex;
-  gap: 20px;
+  justify-content: space-between;
 }
 
+.footer-links-right,
 .footer-links-left {
   display: flex;
   gap: 20px;
+  padding: 0 20px;
 }
-
 /*
 ========
 Individual Elements
