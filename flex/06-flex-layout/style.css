@@ -48,6 +48,13 @@ body {
 .footer {
   display: flex;
   flex-direction: column;
+  justify-content: flex-end;
+  align-content: space-between;
+  height: 60vh;
+}
+
+.footer-links {
+  
 }
 
 /*
