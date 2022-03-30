@@ -19,6 +19,24 @@ body {
   flex-wrap: wrap;
 }
 
+.content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.input {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
 /*
 =========
 individual elements
@@ -27,6 +45,7 @@ individual elements
 
 img {
   max-width: 600px;
+  flex: 1;
 }
 
 ul {
